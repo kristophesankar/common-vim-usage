@@ -7,6 +7,8 @@ This repository is a list of the most commonly used VIM motions and commands tha
 - `dat` - Delete around tags. Deletes contents of an html tag including the tag that the cursor is on
 - `dit` - Delete the contents of a tags that that the cursor is on
 - `%y+` - Yank to he clipboard instead of the vim register
+- `dw` - Delete word
+- `dvb` - Delete word going backwards
 
 ## Substitutions
 
