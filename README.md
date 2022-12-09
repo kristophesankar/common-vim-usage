@@ -12,7 +12,7 @@ This repository is a list of the most commonly used VIM motions and commands tha
 - `dvb` - Delete word going backwards
 
 ## Substitutions
-`:%s/;.*/helloworld`- Substitute the `;` and everything after it `.*` with `helloworld`.
+- `:%s/;.*/helloworld`- Substitute the `;` and everything after it `.*` with `helloworld`.
 
 ## File Navigation
 - `cd directory` - Changes directory to specified
