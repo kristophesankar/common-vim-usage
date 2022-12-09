@@ -4,7 +4,7 @@ This repository is a list of the most commonly used VIM motions and commands tha
 ## Quick Reference
 - `ct'` - Cut to the `'` then enter insert mode
 - `yt'` - Yank to the `'` and remain in normal mode
--`:%y` yank the whole file to the register
+- `:%y` yank the whole file to the register
 - `dat` - Delete around tags. Deletes contents of an html tag including the tag that the cursor is on
 - `dit` - Delete the contents of a tags that that the cursor is on
 - `%y+` - Yank to he clipboard instead of the vim register
@@ -12,7 +12,7 @@ This repository is a list of the most commonly used VIM motions and commands tha
 - `dvb` - Delete word going backwards
 
 ## Substitutions
-- `:%s/;.*/helloworld`- Substitute the `;` and everything after it `.*` with `helloworld`.
+- `:%s/;.*/helloworld` - Substitute the `;` and everything after it `.*` with `helloworld`.
 
 ## File Navigation
 - `cd directory` - Changes directory to specified
