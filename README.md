@@ -13,3 +13,6 @@ This repository is a list of the most commonly used VIM motions and commands tha
 
 ## Substitutions
 `:%s/;.*/helloworld`- Substitute the `;` and everything after it `.*` with `helloworld`.
+
+## File Navigation
+- `cd directory` - Changes directory to specified
