@@ -13,6 +13,7 @@ This repository is a list of the most commonly used VIM motions and commands tha
 
 ## Substitutions
 - `:%s/;.*/helloworld` - Substitute the `;` and everything after it `.*` with `helloworld`.
+- `:%s/replacethis\(.*\)/replacethis\1\r"Month":\1/g` - Example for substitution using **capture groups**
 
 ## File Navigation
 - `cd directory` - Changes directory to specified
