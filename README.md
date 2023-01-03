@@ -11,6 +11,9 @@ This repository is a list of the most commonly used VIM motions and commands tha
 - `dw` - Delete word
 - `dvb` - Delete word going backwards
 
+## Commands
+- `:h rtp` - view neovim's folder location
+
 ## Substitutions
 - `:%s/;.*/helloworld` - Substitute the `;` and everything after it `.*` with `helloworld`.
 - `:%s/replacethis\(.*\)/replacethis\1\r"Month":\1/g` - Example for substitution using **capture groups**
