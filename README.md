@@ -13,6 +13,7 @@ This repository is a list of the most commonly used VIM motions and commands tha
 
 ## Commands
 - `:h rtp` - view neovim's folder location
+- `:Ex` - file explorer
 
 ## Substitutions
 - `:%s/;.*/helloworld` - Substitute the `;` and everything after it `.*` with `helloworld`.
