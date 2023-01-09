@@ -32,3 +32,6 @@ This repository is a list of the most commonly used VIM motions and commands tha
 - `SHIFT - i` to enter insert mode
 - type your comment, eg. `//`
 - `ESC` to complete the comment
+
+# Contributing
+Pull requests are welcome!
