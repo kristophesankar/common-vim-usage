@@ -21,6 +21,9 @@ This repository is a list of the most commonly used VIM motions and commands tha
 
 ## File Navigation
 - `cd directory` - Changes directory to specified
+- `:Ex` - enter explore mode
+  - `%` - to enter a new file
+  - `$` - to make a new directory
 
 ## Commenting a block of code
 - Position cursor to the first line you wish to comment, 
