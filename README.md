@@ -21,3 +21,11 @@ This repository is a list of the most commonly used VIM motions and commands tha
 
 ## File Navigation
 - `cd directory` - Changes directory to specified
+
+## Commenting a block of code
+- Position cursor to the first line you wish to comment, 
+- `SHIFT - V` to enter visual block mode
+- `j` of `k` to select the lines
+- `SHIFT - i` to enter insert mode
+- type your comment, eg. `//`
+- `ESC` to complete the comment
