@@ -33,5 +33,9 @@ This repository is a list of the most commonly used VIM motions and commands tha
 - type your comment, eg. `//`
 - `ESC` to complete the comment
 
+## Sessions
+- :mksession! ~/today.ses - Saves a new session
+- vim -S ~/today.ses - Loads the saved session
+
 # Contributing
 Pull requests are welcome!
